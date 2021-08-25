@@ -1,0 +1,81 @@
+20
+3,Amsterdam,0
+Bulldog|CoffeeShop|16|20|04|20|0|
+Paradox|CoffeeShop|16|20|04|20|0|
+Sex Museum|Museu|12|00|00|00|0|
+3,Barcelona,0
+Camp Nou|Estadio|10|00|18|00|0|
+Museu Pablo Picasso|Museu|10|00|18|00|0|
+Sagrada Familia|Monumento|10|00|19|00|0|
+3,Berlim,0
+Memorial aos Judeus|Monumento|00|00|24|00|0|
+Muro de Berlim|Monumento|00|00|24|00|0|
+Portao de Brandemburgo|Monumento|00|00|24|00|0|
+3,Bruxelas,0
+Atomium|Monumento|00|00|24|00|0|
+Grand Place|Monumento|12|00|19|00|0|
+Manneken Pis|Monumento|00|00|24|00|0|
+3,Cidade do Mexico,0
+Centro Historico|Atracao|00|00|24|00|0|
+Chapultepec|Parque|00|00|24|00|0|
+Palacio Bellas Artes|Museu|00|00|24|00|0|
+3,Coimbra,0
+Parque Mondego|Parque|00|00|24|00|0|
+Torre da Cabra|Monumento|12|00|18|00|0|
+Universidade|Monumento|10|00|18|00|0|
+3,Lisboa,0
+Castelo Sao Jorge|Castelo|12|00|19|00|0|
+Estadio da Luz|Estadio|12|00|18|00|0|
+Terreiro do Paco|Praca|00|00|24|00|0|
+3,Londres,0
+Big Ben|Monumento|10|00|19|00|0|
+London Eye|Roda Gigante|10|00|19|00|0|
+Tower Bridge|Monumento|00|00|24|00|0|
+3,Los Angeles,0
+Hollywood Sign|Atracao|00|00|24|00|0|
+Venice Beach|Praia|00|00|24|00|0|
+Walk of Fame|Rua|00|00|24|00|0|
+3,Madrid,0
+Palacio Real|Monumento|10|00|19|00|0|
+Plaza Mayor|Praca|00|00|24|00|0|
+Porta do Sol|Monumento|00|00|24|00|0|
+3,New York,0
+Central Park|Parque|00|00|24|00|0|
+Empire State Building|Atracao|12|00|19|00|0|
+Estatua da Liberdade|Monumento|00|00|24|00|0|
+3,Paris,0
+Louvre|Museu|10|00|17|00|0|
+Notre Dame|Catedral|12|00|18|00|0|
+Torre Eiffel|Monumento|00|00|24|00|0|
+3,Porto,0
+Estacao Sao Bento|Estacao|05|00|24|00|0|
+Palacio da Bolsa|Monumento|11|00|19|00|0|
+Torre dos Clerigos|Monumento|10|00|19|00|0|
+3,Praga,0
+Castelo de Praga|Monumento|10|00|19|00|0|
+Orloj|Monumento|00|00|24|00|0|
+Ponte Carlos|Monumento|00|00|24|00|0|
+3,Rio de Janeiro,0
+Copacabana|Praia|00|00|24|00|0|
+Cristo Redentor|Monumento|00|00|24|00|0|
+Favela do Alemao|Favela|00|00|24|00|0|
+3,Roma,0
+Basilica S.Pedro|Igreja|12|00|18|00|0|
+Coliseu|Monumento|10|00|19|00|0|
+Fontana di Trevi|Monumento|00|00|24|00|0|
+3,Sao Francisco,0
+Golden Gate Park|Atracao|00|00|24|00|0|
+Ilha de Alcatraz|Atracao|12|00|19|00|0|
+Ponte Golden Gate|Ponte|00|00|24|00|0|
+3,Sao Paulo,0
+Avenida Paulista|Avenida|00|00|24|00|0|
+Beco do Batmam|Rua|00|00|24|00|0|
+Parque Ibirapuera|Parque|00|00|24|00|0|
+3,Sydney,0
+Opera de Sydney|Monumento|00|00|24|00|0|
+Ponte da Baia|Monumento|00|00|24|00|0|
+Praia de Bondi|Praia|00|00|24|00|0|
+3,Toquio,0
+Cl|Templo|12|00|19|00|0|
+Santuario Meiji|Monumento|13|00|19|00|0|
+Torre de Toquio|Monumento|00|00|24|00|0|
